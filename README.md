@@ -1,7 +1,7 @@
 # Sistema de gestión.
 PHP | PDO | MYSQL | POO| AJAX
 
-#Español
+# **Español **
 Este proyecto consta en aplicar los conocimientos para la creación de un sistema de gestión basado en un CRUD ( Crear, Leer, Actualizar, Eliminar).
 
 Para la conexion hacia la base de datos se utilizo PDO, que simplifica el acceso a bases de datos y promueve buenas prácticas de seguridad y portabilidad del código.
@@ -10,7 +10,7 @@ Se utilizo POO para encapsular la funcionalidad relacionada con el procesamiento
 
 Se utilizo AJAX para generar un buscador que no actualizara la pagina durante la busqueda.
 
-#English
+# **English **
 
 This project involves applying knowledge to create a management system based on a CRUD (Create, Read, Update, Delete) approach.
 
